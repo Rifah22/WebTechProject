@@ -1,0 +1,98 @@
+/**Dashboard **/
+
+ 
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+ 
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+ 
+th {
+    background-color: #f2f2f2;
+}
+ 
+.button {
+    padding: 8px;
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+
+/*product*/
+body {
+    font-family: Arial, sans-serif;
+    background-color: white;
+    padding-left: 5px;
+    align-items: center;
+    max-width: 100%;
+}
+ 
+form {
+    background-color: white;
+    padding-left: 450px;
+    border-radius: 10px;
+    align-items: center;
+    max-width: 400px;
+    width: 100%;
+}
+ 
+h1 {
+    text-align: center;
+    color: black;
+    margin-left: -150px;
+    margin-bottom: 20px;
+    font-size: 25px;
+}
+
+ 
+div {
+    margin-bottom: 10px;
+}
+ 
+.cname,
+.ccontact,
+.oid
+ {
+    width: 100%;
+    padding: 10px;
+    margin-top: 8px;
+    border: 1px solid grey;
+    border-radius: 5px;
+   
+}
+.dddate {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    margin-top: 8px;
+    font-size: 15px;
+  }
+select {
+    width: 98%;
+    padding: 10px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    margin-top: 8px;
+    font-size: 15px;
+}
+.submit {
+    width: 30%;
+    background-color: #28a745;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 13px;
+   
+}
+ 
